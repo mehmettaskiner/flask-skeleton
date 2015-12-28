@@ -1,0 +1,1 @@
+This is an skeleton for flask app. No fancy here. Just hello world page. 
